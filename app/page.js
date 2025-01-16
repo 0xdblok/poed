@@ -46,7 +46,7 @@ export default function Home() {
         class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#9462b5] w-[419px]"
         role="list">
         <div class="grow" role="listitem">
-          treasury to burn: 46.7%
+         burn: 46.7%
         </div>
         <div role="listitem">liquidity: 28.2%</div>
         <div class="grow shrink w-[159px]" role="listitem">
