@@ -46,11 +46,11 @@ export default function Home() {
         class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#9462b5] w-[419px]"
         role="list">
         <div class="grow" role="listitem">
-          treasury: 5%
+          treasury to burn: 46.7%
         </div>
-        <div role="listitem">liquidity: 93%</div>
+        <div role="listitem">liquidity: 28.2%</div>
         <div class="grow shrink w-[159px]" role="listitem">
-          early contributors: 2%
+          community: 25.1%
         </div>
       </div>
       <div class="flex gap-4 mt-3 w-16">
