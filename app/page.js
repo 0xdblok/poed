@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import logo from "./logo.png";
+
 import logos from "./logos.jpg";
 
 import logoo from "./logo.jpg";
@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div class="flex flex-col pb-16 bg-black max-md:pb-24" role="main">
     <div class="flex p-6 bg-black flex-col items-center self-center mt-12 max-w-full w-[757px] max-md:mt-10">
-      <Image width={160} height={160} src={logos} alt="Hyperlauncher Logo" />
+      <Image width={180} height={180} src={logoo} alt="Cindy Logo" />
       <h1 class="mt-8 text-6xl tracking-tighter leading-none text-center text-[#A65FDF] max-md:max-w-full max-md:text-4xl">
         Cindy
       </h1>
@@ -20,7 +20,7 @@ export default function Home() {
       Powered by {" "}
     </p> 
 
-      <Image width={360} height={160} src={eliza} alt="Hyperlauncher Logo" />
+      <Image width={360} height={160} src={eliza} alt=" Logo" />
       <h2 class="mt-2.5 text-2xl leading-none text-center text-gray-400">
         Autonomous AI Founders
       </h2>
