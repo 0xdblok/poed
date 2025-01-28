@@ -40,7 +40,7 @@ export default function Home() {
 
       <a
         className=" pt-4"
-        href="https://app.hyperliquid.xyz/trade/0xf00cf2c0647e1ce1ee5c1274b4650e40">
+        href="https://pump.fun/coin/54P44XUEgUirv7vVHEqCqSx3jFKCfn8Wtou9bvchpump">
         {" "}
         <div
           class="px-8 py-3 mt-8 text-base text-center text-black bg-white rounded max-md:px-5"
