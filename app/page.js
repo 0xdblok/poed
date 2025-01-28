@@ -35,12 +35,12 @@ export default function Home() {
         <div
           class="px-8 py-3 mt-8 text-base text-center text-black bg-white rounded max-md:px-5"
           role="status">
-          Buy on Hyperliquid
+          Buy on Jupiter
         </div>
       </a>
 
       <div class="mt-6 text-base text-center text-gray-400">
-        token live on Hyperliquid
+        token live on Jupiter
       </div>
       <div
         class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#9462b5] w-[419px]"
