@@ -27,6 +27,16 @@ export default function Home() {
       <p className="text-center text-zinc-100 pt-2  animate-pulse font-extralight text-xs">
         Terminal and protocol coming soon...
       </p>
+      <div className="flex gap-4"><a
+        className=" pt-4"
+        href="https://app.hyperliquid.xyz/trade/0xf00cf2c0647e1ce1ee5c1274b4650e40">
+        {" "}
+        <div
+          class="px-8 py-3 mt-8 text-base text-center text-black bg-white rounded max-md:px-5"
+          role="status">
+          Buy on Hyperliquid
+        </div>
+      </a>
 
       <a
         className=" pt-4"
@@ -35,12 +45,12 @@ export default function Home() {
         <div
           class="px-8 py-3 mt-8 text-base text-center text-black bg-white rounded max-md:px-5"
           role="status">
-          Buy on Jupiter
+          Buy on pumpfun
         </div>
-      </a>
-
+      </a></div>
+      
       <div class="mt-6 text-base text-center text-gray-400">
-        token live on Jupiter
+        token live on solana and hyperliquid
       </div>
       <div
         class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#9462b5] w-[419px]"
